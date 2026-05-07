@@ -10,6 +10,30 @@ This file is maintained automatically by
 [Conventional Commits](https://www.conventionalcommits.org/). See
 [RELEASE.md](RELEASE.md) for the release process.
 
+## [0.5.0](https://github.com/arvin422/csa-inabox/compare/csa-inabox-v0.4.0...csa-inabox-v0.5.0) (2026-05-07)
+
+
+### Features
+
+* **ci:** prefer Claude Max OAuth token for the auto-fix workflow ([#161](https://github.com/arvin422/csa-inabox/issues/161)) ([7560c42](https://github.com/arvin422/csa-inabox/commit/7560c428ba1fdb672d4a810a547305233210376f))
+* **copilot+audit:** SEC-COPILOT H-3/H-5 + deploy workflow + 9 audit cleanups ([#156](https://github.com/arvin422/csa-inabox/issues/156)) ([5b02242](https://github.com/arvin422/csa-inabox/commit/5b022420756893b217447551e23ed3d8696014d2))
+* **copilot+sec:** topic classification + autonomy guardrails ([#169](https://github.com/arvin422/csa-inabox/issues/169)) ([5715913](https://github.com/arvin422/csa-inabox/commit/57159134298262f28b00ae74442a685aa3101c09))
+* **copilot:** chat analytics + feedback + autonomous bug-fix flow ([#153](https://github.com/arvin422/csa-inabox/issues/153)) ([495919a](https://github.com/arvin422/csa-inabox/commit/495919a330636465e2ee2b92d460afcccb75eb83))
+* **copilot:** page analytics + analytics runbook + flush-on-emit fix ([#162](https://github.com/arvin422/csa-inabox/issues/162)) ([e73ff19](https://github.com/arvin422/csa-inabox/commit/e73ff19173da17cc865d7dc0a2ef09bcbd8fbee3))
+* **copilot:** polish responses + inline citations + frontend-side RAG grounding ([#150](https://github.com/arvin422/csa-inabox/issues/150)) ([aba0225](https://github.com/arvin422/csa-inabox/commit/aba0225b7e6509f98bdbbae5f81fe0468552618f))
+
+
+### Bug Fixes
+
+* **ci:** install function deps for test step in deploy workflow ([#157](https://github.com/arvin422/csa-inabox/issues/157)) ([2f7f084](https://github.com/arvin422/csa-inabox/commit/2f7f08473c83de3ead2f23c02d09fa7c2d2bb8f7))
+* **copilot:** repair function 500 + tighten search relevance + auto-deploy workflow ([#151](https://github.com/arvin422/csa-inabox/issues/151)) ([2273bfb](https://github.com/arvin422/csa-inabox/commit/2273bfbd8a2e4ac0a62ea43abe5c815190037218))
+
+
+### Documentation
+
+* add Supercharge Microsoft Fabric cross-references + link-check workflow ([#152](https://github.com/arvin422/csa-inabox/issues/152)) ([c966845](https://github.com/arvin422/csa-inabox/commit/c966845ba6ff5a95e9492716a190a53925d797df))
+* simplechat-style polish + real Azure portal screenshots ([#148](https://github.com/arvin422/csa-inabox/issues/148)) ([faad54c](https://github.com/arvin422/csa-inabox/commit/faad54c908eef5ba10a07f859fc2af41ca2d2a62))
+
 ## [0.4.0](https://github.com/fgarofalo56/csa-inabox/compare/csa-inabox-v0.3.1...csa-inabox-v0.4.0) (2026-05-01)
 
 
